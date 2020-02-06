@@ -3,6 +3,10 @@
 
 `//blog/invest` #blog/crypto #links
 ----
+
+Чатик создан для обсуждения инвестиций в криптовалюты и традиционные активы, такие как акции, золото, недвижимость.
+https://t.me/joinchat/ABK6EEXKxmeEO-Jy0qFVLQ
+
 ### Полезные ссылки:
 - https://cryptowat.ch/
 - https://coinmarketcap.com/
